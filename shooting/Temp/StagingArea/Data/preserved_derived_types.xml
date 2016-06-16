@@ -1,0 +1,10 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="ParticleTester" preserve="all"/>
+<type fullname="bulletmove" preserve="all"/>
+<type fullname="cameracontrol" preserve="all"/>
+<type fullname="enemyhit" preserve="all"/>
+<type fullname="playershoot" preserve="all"/>
+<type fullname="plyaermove" preserve="all"/>
+</assembly>
+</linker>
